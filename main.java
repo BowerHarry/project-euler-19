@@ -19,7 +19,7 @@ class Date {
 }
 
 // This program is currently set up to calculate how many Tuesdays fell on the first of the month during the 20th century.
-public class Project_Euler {
+public class main {
 
     // Create an ArrayList for every day of the week, these will be populated with every date that falls on that day.
     private static ArrayList<Date> Monday = new ArrayList<>();
